@@ -6,7 +6,7 @@
     <visualElement>
       <elementName>4bit_ALU.dlogic.dig</elementName>
       <elementAttributes/>
-      <pos x="880" y="160"/>
+      <pos x="1080" y="140"/>
     </visualElement>
   </visualElements>
   <wires/>
