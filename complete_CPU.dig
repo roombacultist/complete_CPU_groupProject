@@ -2,6 +2,13 @@
 <circuit>
   <version>2</version>
   <attributes/>
-  <visualElements/>
+  <visualElements>
+    <visualElement>
+      <elementName>4bit_ALU.dlogic.dig</elementName>
+      <elementAttributes/>
+      <pos x="880" y="160"/>
+    </visualElement>
+  </visualElements>
   <wires/>
+  <measurementOrdering/>
 </circuit>
